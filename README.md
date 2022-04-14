@@ -1,3 +1,5 @@
+### :octocat: About Me
+
 - 🔭 Currently a student trying to balance school and fun side projects
 - 🤔 Learning Go and its concurrency features
 - 🍜 Love eating noodle soup
@@ -17,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisping&theme=nord&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
