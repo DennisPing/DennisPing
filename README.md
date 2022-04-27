@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisping&theme=nord&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+ -->
