@@ -2,7 +2,6 @@
 
 - 🔭 Currently a student trying to balance school and fun side projects
 - 🤔 Learning Go and its concurrency features
-- 🍜 Love eating noodle soup
 - 🚿 Pro at having shower thoughts
 
 <!--
