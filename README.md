@@ -1,8 +1,8 @@
 ## :octocat: About Me
 
-- 🔭 Currently a student trying to balance school and fun side projects
-- 🤔 Learning Go and its concurrency features
-- 🚿 Pro at having shower thoughts
+- 🔭 Student
+- 🤔 Go & Python
+- :coffee: Coffee in the morning
 
 <!--
 **DennisPing/DennisPing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
