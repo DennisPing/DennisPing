@@ -1,8 +1,8 @@
 ## :octocat: About Me
 
-- 🔭 Student
-- 🤔 Go & Python
-- :coffee: Coffee in the morning
+- 📚 UConn, Northeastern
+- 🏞️ ReactJS, Tailwind CSS
+- 💻 Go, Python, Typescript
 
 <!--
 **DennisPing/DennisPing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## 📈 Stats
+## 📈 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisping&theme=nord&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
