@@ -1,8 +1,7 @@
 ## :octocat: About Me
 
 - 📚 UConn, Northeastern
-- 🏞️ React, Tailwind CSS
-- 💻 Go, Python, C++, Typescript
+- 💻 Go, Python, sometimes C++
 
 <!--
 **DennisPing/DennisPing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
