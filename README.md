@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 
 ## 📈 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisping&layout=compact&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisping&theme=nord&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DennisPing&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=DennisPing&langs_count=4)
